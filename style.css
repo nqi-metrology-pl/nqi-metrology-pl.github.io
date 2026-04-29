@@ -569,6 +569,19 @@ h3 {
   margin-bottom: 0.7rem;
 }
 
+.funding-info {
+  display: grid;
+  gap: 0.25rem;
+}
+
+.funding-info p {
+  margin: 0;
+}
+
+.funding-info strong {
+  color: #ffffff;
+}
+
 .footer-links {
   list-style: none;
   margin: 0;
